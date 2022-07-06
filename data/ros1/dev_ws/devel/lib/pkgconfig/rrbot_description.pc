@@ -1,0 +1,1 @@
+/home/ubuntu/data/dev_ws/devel/.private/rrbot_description/lib/pkgconfig/rrbot_description.pc
