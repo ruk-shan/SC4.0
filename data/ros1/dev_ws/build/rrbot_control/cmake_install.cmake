@@ -1,8 +1,8 @@
-# Install script for directory: /home/ubuntu/data/dev_ws/src/rrbot/src/rrbot_control
+# Install script for directory: /home/data/ros1/dev_ws/src/rrbot/src/rrbot_control
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "/home/ubuntu/data/dev_ws/install")
+  set(CMAKE_INSTALL_PREFIX "/home/data/ros1/dev_ws/install")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
@@ -49,103 +49,103 @@ endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
   list(APPEND CMAKE_ABSOLUTE_DESTINATION_FILES
-   "/home/ubuntu/data/dev_ws/install/_setup_util.py")
+   "/home/data/ros1/dev_ws/install/_setup_util.py")
   if(CMAKE_WARN_ON_ABSOLUTE_INSTALL_DESTINATION)
     message(WARNING "ABSOLUTE path INSTALL DESTINATION : ${CMAKE_ABSOLUTE_DESTINATION_FILES}")
   endif()
   if(CMAKE_ERROR_ON_ABSOLUTE_INSTALL_DESTINATION)
     message(FATAL_ERROR "ABSOLUTE path INSTALL DESTINATION forbidden (by caller): ${CMAKE_ABSOLUTE_DESTINATION_FILES}")
   endif()
-file(INSTALL DESTINATION "/home/ubuntu/data/dev_ws/install" TYPE PROGRAM FILES "/home/ubuntu/data/dev_ws/build/rrbot_control/catkin_generated/installspace/_setup_util.py")
+file(INSTALL DESTINATION "/home/data/ros1/dev_ws/install" TYPE PROGRAM FILES "/home/data/ros1/dev_ws/build/rrbot_control/catkin_generated/installspace/_setup_util.py")
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
   list(APPEND CMAKE_ABSOLUTE_DESTINATION_FILES
-   "/home/ubuntu/data/dev_ws/install/env.sh")
+   "/home/data/ros1/dev_ws/install/env.sh")
   if(CMAKE_WARN_ON_ABSOLUTE_INSTALL_DESTINATION)
     message(WARNING "ABSOLUTE path INSTALL DESTINATION : ${CMAKE_ABSOLUTE_DESTINATION_FILES}")
   endif()
   if(CMAKE_ERROR_ON_ABSOLUTE_INSTALL_DESTINATION)
     message(FATAL_ERROR "ABSOLUTE path INSTALL DESTINATION forbidden (by caller): ${CMAKE_ABSOLUTE_DESTINATION_FILES}")
   endif()
-file(INSTALL DESTINATION "/home/ubuntu/data/dev_ws/install" TYPE PROGRAM FILES "/home/ubuntu/data/dev_ws/build/rrbot_control/catkin_generated/installspace/env.sh")
+file(INSTALL DESTINATION "/home/data/ros1/dev_ws/install" TYPE PROGRAM FILES "/home/data/ros1/dev_ws/build/rrbot_control/catkin_generated/installspace/env.sh")
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
   list(APPEND CMAKE_ABSOLUTE_DESTINATION_FILES
-   "/home/ubuntu/data/dev_ws/install/setup.bash;/home/ubuntu/data/dev_ws/install/local_setup.bash")
+   "/home/data/ros1/dev_ws/install/setup.bash;/home/data/ros1/dev_ws/install/local_setup.bash")
   if(CMAKE_WARN_ON_ABSOLUTE_INSTALL_DESTINATION)
     message(WARNING "ABSOLUTE path INSTALL DESTINATION : ${CMAKE_ABSOLUTE_DESTINATION_FILES}")
   endif()
   if(CMAKE_ERROR_ON_ABSOLUTE_INSTALL_DESTINATION)
     message(FATAL_ERROR "ABSOLUTE path INSTALL DESTINATION forbidden (by caller): ${CMAKE_ABSOLUTE_DESTINATION_FILES}")
   endif()
-file(INSTALL DESTINATION "/home/ubuntu/data/dev_ws/install" TYPE FILE FILES
-    "/home/ubuntu/data/dev_ws/build/rrbot_control/catkin_generated/installspace/setup.bash"
-    "/home/ubuntu/data/dev_ws/build/rrbot_control/catkin_generated/installspace/local_setup.bash"
+file(INSTALL DESTINATION "/home/data/ros1/dev_ws/install" TYPE FILE FILES
+    "/home/data/ros1/dev_ws/build/rrbot_control/catkin_generated/installspace/setup.bash"
+    "/home/data/ros1/dev_ws/build/rrbot_control/catkin_generated/installspace/local_setup.bash"
     )
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
   list(APPEND CMAKE_ABSOLUTE_DESTINATION_FILES
-   "/home/ubuntu/data/dev_ws/install/setup.sh;/home/ubuntu/data/dev_ws/install/local_setup.sh")
+   "/home/data/ros1/dev_ws/install/setup.sh;/home/data/ros1/dev_ws/install/local_setup.sh")
   if(CMAKE_WARN_ON_ABSOLUTE_INSTALL_DESTINATION)
     message(WARNING "ABSOLUTE path INSTALL DESTINATION : ${CMAKE_ABSOLUTE_DESTINATION_FILES}")
   endif()
   if(CMAKE_ERROR_ON_ABSOLUTE_INSTALL_DESTINATION)
     message(FATAL_ERROR "ABSOLUTE path INSTALL DESTINATION forbidden (by caller): ${CMAKE_ABSOLUTE_DESTINATION_FILES}")
   endif()
-file(INSTALL DESTINATION "/home/ubuntu/data/dev_ws/install" TYPE FILE FILES
-    "/home/ubuntu/data/dev_ws/build/rrbot_control/catkin_generated/installspace/setup.sh"
-    "/home/ubuntu/data/dev_ws/build/rrbot_control/catkin_generated/installspace/local_setup.sh"
+file(INSTALL DESTINATION "/home/data/ros1/dev_ws/install" TYPE FILE FILES
+    "/home/data/ros1/dev_ws/build/rrbot_control/catkin_generated/installspace/setup.sh"
+    "/home/data/ros1/dev_ws/build/rrbot_control/catkin_generated/installspace/local_setup.sh"
     )
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
   list(APPEND CMAKE_ABSOLUTE_DESTINATION_FILES
-   "/home/ubuntu/data/dev_ws/install/setup.zsh;/home/ubuntu/data/dev_ws/install/local_setup.zsh")
+   "/home/data/ros1/dev_ws/install/setup.zsh;/home/data/ros1/dev_ws/install/local_setup.zsh")
   if(CMAKE_WARN_ON_ABSOLUTE_INSTALL_DESTINATION)
     message(WARNING "ABSOLUTE path INSTALL DESTINATION : ${CMAKE_ABSOLUTE_DESTINATION_FILES}")
   endif()
   if(CMAKE_ERROR_ON_ABSOLUTE_INSTALL_DESTINATION)
     message(FATAL_ERROR "ABSOLUTE path INSTALL DESTINATION forbidden (by caller): ${CMAKE_ABSOLUTE_DESTINATION_FILES}")
   endif()
-file(INSTALL DESTINATION "/home/ubuntu/data/dev_ws/install" TYPE FILE FILES
-    "/home/ubuntu/data/dev_ws/build/rrbot_control/catkin_generated/installspace/setup.zsh"
-    "/home/ubuntu/data/dev_ws/build/rrbot_control/catkin_generated/installspace/local_setup.zsh"
+file(INSTALL DESTINATION "/home/data/ros1/dev_ws/install" TYPE FILE FILES
+    "/home/data/ros1/dev_ws/build/rrbot_control/catkin_generated/installspace/setup.zsh"
+    "/home/data/ros1/dev_ws/build/rrbot_control/catkin_generated/installspace/local_setup.zsh"
     )
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
   list(APPEND CMAKE_ABSOLUTE_DESTINATION_FILES
-   "/home/ubuntu/data/dev_ws/install/.rosinstall")
+   "/home/data/ros1/dev_ws/install/.rosinstall")
   if(CMAKE_WARN_ON_ABSOLUTE_INSTALL_DESTINATION)
     message(WARNING "ABSOLUTE path INSTALL DESTINATION : ${CMAKE_ABSOLUTE_DESTINATION_FILES}")
   endif()
   if(CMAKE_ERROR_ON_ABSOLUTE_INSTALL_DESTINATION)
     message(FATAL_ERROR "ABSOLUTE path INSTALL DESTINATION forbidden (by caller): ${CMAKE_ABSOLUTE_DESTINATION_FILES}")
   endif()
-file(INSTALL DESTINATION "/home/ubuntu/data/dev_ws/install" TYPE FILE FILES "/home/ubuntu/data/dev_ws/build/rrbot_control/catkin_generated/installspace/.rosinstall")
+file(INSTALL DESTINATION "/home/data/ros1/dev_ws/install" TYPE FILE FILES "/home/data/ros1/dev_ws/build/rrbot_control/catkin_generated/installspace/.rosinstall")
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/pkgconfig" TYPE FILE FILES "/home/ubuntu/data/dev_ws/build/rrbot_control/catkin_generated/installspace/rrbot_control.pc")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/pkgconfig" TYPE FILE FILES "/home/data/ros1/dev_ws/build/rrbot_control/catkin_generated/installspace/rrbot_control.pc")
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
   file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/rrbot_control/cmake" TYPE FILE FILES
-    "/home/ubuntu/data/dev_ws/build/rrbot_control/catkin_generated/installspace/rrbot_controlConfig.cmake"
-    "/home/ubuntu/data/dev_ws/build/rrbot_control/catkin_generated/installspace/rrbot_controlConfig-version.cmake"
+    "/home/data/ros1/dev_ws/build/rrbot_control/catkin_generated/installspace/rrbot_controlConfig.cmake"
+    "/home/data/ros1/dev_ws/build/rrbot_control/catkin_generated/installspace/rrbot_controlConfig-version.cmake"
     )
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/rrbot_control" TYPE FILE FILES "/home/ubuntu/data/dev_ws/src/rrbot/src/rrbot_control/package.xml")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/rrbot_control" TYPE FILE FILES "/home/data/ros1/dev_ws/src/rrbot/src/rrbot_control/package.xml")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("/home/ubuntu/data/dev_ws/build/rrbot_control/gtest/cmake_install.cmake")
+  include("/home/data/ros1/dev_ws/build/rrbot_control/gtest/cmake_install.cmake")
 
 endif()
 
@@ -157,5 +157,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/ubuntu/data/dev_ws/build/rrbot_control/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/data/ros1/dev_ws/build/rrbot_control/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

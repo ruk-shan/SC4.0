@@ -1,0 +1,1 @@
+/home/data/ros1/dev_ws/devel/.private/aruco_msgs/share/roseus/ros/aruco_msgs/manifest.l

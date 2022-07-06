@@ -4,5 +4,5 @@ PROJECT_PKG_CONFIG_INCLUDE_DIRS = "".split(';') if "" != "" else []
 PROJECT_CATKIN_DEPENDS = "".replace(';', ' ')
 PKG_CONFIG_LIBRARIES_WITH_PREFIX = "".split(';') if "" != "" else []
 PROJECT_NAME = "rrbot_description"
-PROJECT_SPACE_DIR = "/home/ubuntu/data/dev_ws/devel/.private/rrbot_description"
+PROJECT_SPACE_DIR = "/home/data/ros1/dev_ws/devel/.private/rrbot_description"
 PROJECT_VERSION = "0.0.0"

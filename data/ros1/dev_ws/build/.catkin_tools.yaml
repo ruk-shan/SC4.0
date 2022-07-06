@@ -1,6 +1,6 @@
-devel_space: /home/ubuntu/data/dev_ws/devel
+devel_space: /home/data/ros1/dev_ws/devel
 install: false
-install_space: /home/ubuntu/data/dev_ws/install
+install_space: /home/data/ros1/dev_ws/install
 profile: default
-source_space: /home/ubuntu/data/dev_ws/src
-workspace: /home/ubuntu/data/dev_ws
+source_space: /home/data/ros1/dev_ws/src
+workspace: /home/data/ros1/dev_ws

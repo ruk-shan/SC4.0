@@ -67,14 +67,14 @@ set(rrbot_control_CONFIG_INCLUDED TRUE)
 
 # set variables for source/devel/install prefixes
 if("FALSE" STREQUAL "TRUE")
-  set(rrbot_control_SOURCE_PREFIX /home/ubuntu/data/dev_ws/src/rrbot/src/rrbot_control)
-  set(rrbot_control_DEVEL_PREFIX /home/ubuntu/data/dev_ws/devel/.private/rrbot_control)
+  set(rrbot_control_SOURCE_PREFIX /home/data/ros1/dev_ws/src/rrbot/src/rrbot_control)
+  set(rrbot_control_DEVEL_PREFIX /home/data/ros1/dev_ws/devel/.private/rrbot_control)
   set(rrbot_control_INSTALL_PREFIX "")
   set(rrbot_control_PREFIX ${rrbot_control_DEVEL_PREFIX})
 else()
   set(rrbot_control_SOURCE_PREFIX "")
   set(rrbot_control_DEVEL_PREFIX "")
-  set(rrbot_control_INSTALL_PREFIX /home/ubuntu/data/dev_ws/install)
+  set(rrbot_control_INSTALL_PREFIX /home/data/ros1/dev_ws/install)
   set(rrbot_control_PREFIX ${rrbot_control_INSTALL_PREFIX})
 endif()
 
@@ -154,7 +154,7 @@ foreach(library ${libraries})
     set(lib_path "")
     set(lib "${library}-NOTFOUND")
     # since the path where the library is found is returned we have to iterate over the paths manually
-    foreach(path /home/ubuntu/data/dev_ws/install/lib;/home/ubuntu/data/dev_ws/devel/lib;/opt/ros/noetic/lib)
+    foreach(path /home/data/ros1/dev_ws/install/lib;/home/data/ros1/dev_ws/devel/lib;/opt/ros/noetic/lib)
       find_library(lib ${library}
         PATHS ${path}
         NO_DEFAULT_PATH NO_CMAKE_FIND_ROOT_PATH)

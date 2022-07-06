@@ -1,0 +1,7 @@
+MYROBOT_control
+/home/data/ros1/dev_ws/devel/.private/MYROBOT_control/cmake.lock /home/data/ros1/dev_ws/devel/./cmake.lock
+/home/data/ros1/dev_ws/devel/.private/MYROBOT_control/share/MYROBOT_control/cmake/MYROBOT_controlConfig.cmake /home/data/ros1/dev_ws/devel/share/MYROBOT_control/cmake/MYROBOT_controlConfig.cmake
+/home/data/ros1/dev_ws/devel/.private/MYROBOT_control/share/MYROBOT_control/cmake/MYROBOT_controlConfig-version.cmake /home/data/ros1/dev_ws/devel/share/MYROBOT_control/cmake/MYROBOT_controlConfig-version.cmake
+/home/data/ros1/dev_ws/devel/.private/MYROBOT_control/lib/MYROBOT_control/cmake.lock /home/data/ros1/dev_ws/devel/lib/MYROBOT_control/cmake.lock
+/home/data/ros1/dev_ws/devel/.private/MYROBOT_control/lib/MYROBOT_control/laodcel_reader.py /home/data/ros1/dev_ws/devel/lib/MYROBOT_control/laodcel_reader.py
+/home/data/ros1/dev_ws/devel/.private/MYROBOT_control/lib/pkgconfig/MYROBOT_control.pc /home/data/ros1/dev_ws/devel/lib/pkgconfig/MYROBOT_control.pc

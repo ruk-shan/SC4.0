@@ -3,7 +3,7 @@
 
 # since this file is sourced either use the provided _CATKIN_SETUP_DIR
 # or fall back to the destination set at configure time
-: ${_CATKIN_SETUP_DIR:=/home/ubuntu/data/dev_ws/devel/.private/rrbot_control}
+: ${_CATKIN_SETUP_DIR:=/home/data/ros1/dev_ws/devel/.private/rrbot_control}
 CATKIN_SETUP_UTIL_ARGS="--extend --local"
 . "$_CATKIN_SETUP_DIR/setup.sh"
 unset CATKIN_SETUP_UTIL_ARGS

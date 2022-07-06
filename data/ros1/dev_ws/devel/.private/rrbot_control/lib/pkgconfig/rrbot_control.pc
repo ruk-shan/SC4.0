@@ -1,4 +1,4 @@
-prefix=/home/ubuntu/data/dev_ws/devel/.private/rrbot_control
+prefix=/home/data/ros1/dev_ws/devel/.private/rrbot_control
 
 Name: rrbot_control
 Description: Description of rrbot_control

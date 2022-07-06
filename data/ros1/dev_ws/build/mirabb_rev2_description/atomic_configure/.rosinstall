@@ -1,2 +1,2 @@
 - setup-file:
-    local-name: /home/ubuntu/data/dev_ws/devel/.private/mirabb_rev2_description/setup.sh
+    local-name: /home/data/ros1/dev_ws/devel/.private/mirabb_rev2_description/setup.sh

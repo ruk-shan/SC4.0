@@ -1,6 +1,6 @@
 # CMake generated Testfile for 
-# Source directory: /home/ubuntu/data/dev_ws/build/catkin_tools_prebuild
-# Build directory: /home/ubuntu/data/dev_ws/build/catkin_tools_prebuild
+# Source directory: /home/data/ros1/dev_ws/build/catkin_tools_prebuild
+# Build directory: /home/data/ros1/dev_ws/build/catkin_tools_prebuild
 # 
 # This file includes the relevant testing commands required for 
 # testing this directory and lists subdirectories to be tested as well.

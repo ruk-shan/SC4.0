@@ -1,2 +1,2 @@
 - setup-file:
-    local-name: /home/ubuntu/data/dev_ws/install/setup.sh
+    local-name: /home/data/ros1/dev_ws/install/setup.sh

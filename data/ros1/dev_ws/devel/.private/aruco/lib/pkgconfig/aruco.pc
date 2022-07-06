@@ -1,0 +1,8 @@
+prefix=/home/data/ros1/dev_ws/devel/.private/aruco
+
+Name: aruco
+Description: Description of aruco
+Version: 3.0.2
+Cflags: -I/home/data/ros1/dev_ws/src/aruco_ros/aruco/include
+Libs: -L${prefix}/lib -laruco
+Requires: 

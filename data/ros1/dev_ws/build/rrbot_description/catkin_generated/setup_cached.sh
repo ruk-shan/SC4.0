@@ -7,7 +7,7 @@
 # new environment variables
 
 # modified environment variables
-export CMAKE_PREFIX_PATH="/home/ubuntu/data/dev_ws/devel/.private/rrbot_description:$CMAKE_PREFIX_PATH"
-export PWD='/home/ubuntu/data/dev_ws/build/rrbot_description'
-export ROSLISP_PACKAGE_DIRECTORIES="/home/ubuntu/data/dev_ws/devel/.private/rrbot_description/share/common-lisp:$ROSLISP_PACKAGE_DIRECTORIES"
-export ROS_PACKAGE_PATH="/home/ubuntu/data/dev_ws/src/rrbot/src/rrbot_description:$ROS_PACKAGE_PATH"
+export CMAKE_PREFIX_PATH="/home/data/ros1/dev_ws/devel/.private/rrbot_description:$CMAKE_PREFIX_PATH"
+export PWD='/home/data/ros1/dev_ws/build/rrbot_description'
+export ROSLISP_PACKAGE_DIRECTORIES="/home/data/ros1/dev_ws/devel/.private/rrbot_description/share/common-lisp:$ROSLISP_PACKAGE_DIRECTORIES"
+export ROS_PACKAGE_PATH="/home/data/ros1/dev_ws/src/rrbot/src/rrbot_description:$ROS_PACKAGE_PATH"

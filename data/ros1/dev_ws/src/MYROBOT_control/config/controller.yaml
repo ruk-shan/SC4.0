@@ -1,0 +1,17 @@
+loadcell:
+# loadcell_controller:
+  # Publish all joint states -----------------------------------
+  joint_state_controller:
+    type: joint_state_controller/JointStateController
+    publish_rate: 50
+
+  # Position Controllers --------------------------------------
+  arm_load_slide_position_controller:
+    type: effort_controllers/JointPositionController
+    joint: arm_load_slide
+    pid: {p: 100.0, i: 0.01, d: 10.0}
+    
+  am_rotate_position_controller:
+    type: effort_controllers/JointPositionController
+    joint: am_rotate
+    pid: {p: 100.0, i: 0.01, d: 10.0}

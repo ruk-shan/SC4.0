@@ -1,4 +1,4 @@
-prefix=/home/ubuntu/data/dev_ws/devel/.private/catkin_tools_prebuild
+prefix=/home/data/ros1/dev_ws/devel/.private/catkin_tools_prebuild
 
 Name: catkin_tools_prebuild
 Description: Description of catkin_tools_prebuild

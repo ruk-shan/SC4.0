@@ -1,0 +1,8 @@
+prefix=/home/data/ros1/dev_ws/devel/.private/MYROBOT_description
+
+Name: MYROBOT_description
+Description: Description of MYROBOT_description
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

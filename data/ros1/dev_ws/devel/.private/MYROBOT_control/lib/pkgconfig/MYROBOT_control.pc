@@ -1,0 +1,8 @@
+prefix=/home/data/ros1/dev_ws/devel/.private/MYROBOT_control
+
+Name: MYROBOT_control
+Description: Description of MYROBOT_control
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

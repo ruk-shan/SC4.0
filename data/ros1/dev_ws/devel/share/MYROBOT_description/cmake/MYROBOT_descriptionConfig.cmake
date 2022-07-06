@@ -1,0 +1,1 @@
+/home/data/ros1/dev_ws/devel/.private/MYROBOT_description/share/MYROBOT_description/cmake/MYROBOT_descriptionConfig.cmake

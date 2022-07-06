@@ -1,1 +1,0 @@
-/home/ubuntu/data/dev_ws/devel/.private/abb4600_description/share/abb4600_description/cmake/abb4600_descriptionConfig-version.cmake

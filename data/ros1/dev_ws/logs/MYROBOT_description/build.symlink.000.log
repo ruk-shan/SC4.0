@@ -1,0 +1,3 @@
+Symlinking /home/data/ros1/dev_ws/devel/share/MYROBOT_description/cmake/MYROBOT_descriptionConfig-version.cmake
+Symlinking /home/data/ros1/dev_ws/devel/share/MYROBOT_description/cmake/MYROBOT_descriptionConfig.cmake
+Symlinking /home/data/ros1/dev_ws/devel/lib/pkgconfig/MYROBOT_description.pc

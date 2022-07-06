@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/data/ros1/dev_ws/devel/.private/launch_files/setup.sh

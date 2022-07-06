@@ -1,1 +1,1 @@
-/home/ubuntu/data/dev_ws/devel/.private/rrbot_description/share/rrbot_description/cmake/rrbot_descriptionConfig.cmake
+/home/data/ros1/dev_ws/devel/.private/rrbot_description/share/rrbot_description/cmake/rrbot_descriptionConfig.cmake

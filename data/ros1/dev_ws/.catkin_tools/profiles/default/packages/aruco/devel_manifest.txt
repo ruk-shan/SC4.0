@@ -1,0 +1,6 @@
+aruco_ros/aruco
+/home/data/ros1/dev_ws/devel/.private/aruco/cmake.lock /home/data/ros1/dev_ws/devel/./cmake.lock
+/home/data/ros1/dev_ws/devel/.private/aruco/share/aruco/cmake/arucoConfig.cmake /home/data/ros1/dev_ws/devel/share/aruco/cmake/arucoConfig.cmake
+/home/data/ros1/dev_ws/devel/.private/aruco/share/aruco/cmake/arucoConfig-version.cmake /home/data/ros1/dev_ws/devel/share/aruco/cmake/arucoConfig-version.cmake
+/home/data/ros1/dev_ws/devel/.private/aruco/lib/libaruco.so /home/data/ros1/dev_ws/devel/lib/libaruco.so
+/home/data/ros1/dev_ws/devel/.private/aruco/lib/pkgconfig/aruco.pc /home/data/ros1/dev_ws/devel/lib/pkgconfig/aruco.pc

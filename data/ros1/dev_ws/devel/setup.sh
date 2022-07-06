@@ -1,1 +1,1 @@
-/home/ubuntu/data/dev_ws/devel/.private/catkin_tools_prebuild/setup.sh
+/home/data/ros1/dev_ws/devel/.private/catkin_tools_prebuild/setup.sh

@@ -7,9 +7,8 @@
 # new environment variables
 
 # modified environment variables
-export CMAKE_PREFIX_PATH="/home/ubuntu/data/dev_ws/devel/.private/mirabb_rev2_description:$CMAKE_PREFIX_PATH"
-export LD_LIBRARY_PATH="/home/ubuntu/data/dev_ws/devel/.private/mirabb_rev2_description/lib:$LD_LIBRARY_PATH"
-export PKG_CONFIG_PATH="/home/ubuntu/data/dev_ws/devel/.private/mirabb_rev2_description/lib/pkgconfig:$PKG_CONFIG_PATH"
-export PWD='/home/ubuntu/data/dev_ws/build/mirabb_rev2_description'
-export ROSLISP_PACKAGE_DIRECTORIES="/home/ubuntu/data/dev_ws/devel/.private/mirabb_rev2_description/share/common-lisp:$ROSLISP_PACKAGE_DIRECTORIES"
-export ROS_PACKAGE_PATH="/home/ubuntu/data/dev_ws/src/mirabb_rev2_description:$ROS_PACKAGE_PATH"
+export CMAKE_PREFIX_PATH="/home/data/ros1/dev_ws/devel/.private/mirabb_rev2_description:$CMAKE_PREFIX_PATH"
+export PWD='/home/data/ros1/dev_ws/build/mirabb_rev2_description'
+export PYTHONPATH="/home/data/ros1/dev_ws/devel/lib/python3/dist-packages:$PYTHONPATH"
+export ROSLISP_PACKAGE_DIRECTORIES="/home/data/ros1/dev_ws/devel/.private/mirabb_rev2_description/share/common-lisp:$ROSLISP_PACKAGE_DIRECTORIES"
+export ROS_PACKAGE_PATH="/home/data/ros1/dev_ws/src/mirabb_rev2_description:$ROS_PACKAGE_PATH"

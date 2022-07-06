@@ -1,4 +1,4 @@
-prefix=/home/ubuntu/data/dev_ws/install
+prefix=/home/data/ros1/dev_ws/install
 
 Name: rrbot_description
 Description: Description of rrbot_description

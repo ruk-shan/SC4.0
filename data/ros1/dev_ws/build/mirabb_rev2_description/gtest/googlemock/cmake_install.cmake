@@ -2,7 +2,7 @@
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "/home/ubuntu/data/dev_ws/install")
+  set(CMAKE_INSTALL_PREFIX "/home/data/ros1/dev_ws/install")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
@@ -39,7 +39,7 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("/home/ubuntu/data/dev_ws/build/mirabb_rev2_description/gtest/googletest/cmake_install.cmake")
+  include("/home/data/ros1/dev_ws/build/mirabb_rev2_description/gtest/googletest/cmake_install.cmake")
 
 endif()
 

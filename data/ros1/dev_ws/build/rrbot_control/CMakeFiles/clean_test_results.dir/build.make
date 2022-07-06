@@ -43,10 +43,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/ubuntu/data/dev_ws/src/rrbot/src/rrbot_control
+CMAKE_SOURCE_DIR = /home/data/ros1/dev_ws/src/rrbot/src/rrbot_control
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/ubuntu/data/dev_ws/build/rrbot_control
+CMAKE_BINARY_DIR = /home/data/ros1/dev_ws/build/rrbot_control
 
 # Utility rule file for clean_test_results.
 
@@ -54,7 +54,7 @@ CMAKE_BINARY_DIR = /home/ubuntu/data/dev_ws/build/rrbot_control
 include CMakeFiles/clean_test_results.dir/progress.make
 
 CMakeFiles/clean_test_results:
-	/usr/bin/python3 /opt/ros/noetic/share/catkin/cmake/test/remove_test_results.py /home/ubuntu/data/dev_ws/build/rrbot_control/test_results
+	/usr/bin/python3 /opt/ros/noetic/share/catkin/cmake/test/remove_test_results.py /home/data/ros1/dev_ws/build/rrbot_control/test_results
 
 clean_test_results: CMakeFiles/clean_test_results
 clean_test_results: CMakeFiles/clean_test_results.dir/build.make
@@ -71,6 +71,6 @@ CMakeFiles/clean_test_results.dir/clean:
 .PHONY : CMakeFiles/clean_test_results.dir/clean
 
 CMakeFiles/clean_test_results.dir/depend:
-	cd /home/ubuntu/data/dev_ws/build/rrbot_control && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/ubuntu/data/dev_ws/src/rrbot/src/rrbot_control /home/ubuntu/data/dev_ws/src/rrbot/src/rrbot_control /home/ubuntu/data/dev_ws/build/rrbot_control /home/ubuntu/data/dev_ws/build/rrbot_control /home/ubuntu/data/dev_ws/build/rrbot_control/CMakeFiles/clean_test_results.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/data/ros1/dev_ws/build/rrbot_control && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/data/ros1/dev_ws/src/rrbot/src/rrbot_control /home/data/ros1/dev_ws/src/rrbot/src/rrbot_control /home/data/ros1/dev_ws/build/rrbot_control /home/data/ros1/dev_ws/build/rrbot_control /home/data/ros1/dev_ws/build/rrbot_control/CMakeFiles/clean_test_results.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/clean_test_results.dir/depend
 

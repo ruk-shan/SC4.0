@@ -1,8 +1,0 @@
-prefix=/home/ubuntu/data/dev_ws/install
-
-Name: abb4600_description
-Description: Description of abb4600_description
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 
