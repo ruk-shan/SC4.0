@@ -1,6 +1,6 @@
 # SC4.0_sim
 
-## Instructions
+## Instructions to run docker image
 1. Download the repo <br>
 2. Make sure you have installed <br>
   Docker,(https://docs.docker.com/engine/install/ubuntu/)<br> 
