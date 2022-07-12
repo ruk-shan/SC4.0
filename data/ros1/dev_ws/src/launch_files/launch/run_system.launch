@@ -1,6 +1,5 @@
 <?xml version="1.0"?>
 <launch>
-
     <!-- loading xacro -->
     <param name="robot_description" command="$(find xacro)/xacro $(find mirabb_rev2_description)/urdf/mirabb_rev2.xacro"/> 
 
