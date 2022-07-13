@@ -1,6 +1,0 @@
-packages installed >
-
-apt-get install gedit
-apt-get install ros-noetic-teleop-twist-keyboard
-apt-get install terminator
-====================================================================================
