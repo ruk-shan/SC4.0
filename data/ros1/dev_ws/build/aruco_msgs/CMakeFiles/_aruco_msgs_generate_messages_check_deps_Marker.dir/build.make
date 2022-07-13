@@ -54,7 +54,7 @@ CMAKE_BINARY_DIR = /home/data/ros1/dev_ws/build/aruco_msgs
 include CMakeFiles/_aruco_msgs_generate_messages_check_deps_Marker.dir/progress.make
 
 CMakeFiles/_aruco_msgs_generate_messages_check_deps_Marker:
-	catkin_generated/env_cached.sh /usr/bin/python3 /opt/ros/noetic/share/genmsg/cmake/../../../lib/genmsg/genmsg_check_deps.py aruco_msgs /home/data/ros1/dev_ws/src/aruco_ros/aruco_msgs/msg/Marker.msg geometry_msgs/Pose:geometry_msgs/PoseWithCovariance:std_msgs/Header:geometry_msgs/Point:geometry_msgs/Quaternion
+	catkin_generated/env_cached.sh /usr/bin/python3 /opt/ros/noetic/share/genmsg/cmake/../../../lib/genmsg/genmsg_check_deps.py aruco_msgs /home/data/ros1/dev_ws/src/aruco_ros/aruco_msgs/msg/Marker.msg std_msgs/Header:geometry_msgs/Pose:geometry_msgs/Point:geometry_msgs/Quaternion:geometry_msgs/PoseWithCovariance
 
 _aruco_msgs_generate_messages_check_deps_Marker: CMakeFiles/_aruco_msgs_generate_messages_check_deps_Marker
 _aruco_msgs_generate_messages_check_deps_Marker: CMakeFiles/_aruco_msgs_generate_messages_check_deps_Marker.dir/build.make

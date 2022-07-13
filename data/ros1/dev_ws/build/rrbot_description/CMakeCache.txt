@@ -350,7 +350,7 @@ RT_LIBRARY:FILEPATH=/usr/lib/x86_64-linux-gnu/librt.so
 SETUPTOOLS_DEB_LAYOUT:BOOL=ON
 
 //Name of the computer/site where compile is being run
-SITE:STRING=c582babc3d54
+SITE:STRING=c2336f34fc57
 
 //LSB Distrib tag
 UBUNTU:BOOL=TRUE
@@ -423,7 +423,7 @@ gtest_main_LIB_DEPENDS:STATIC=general;gtest;
 rrbot_description_BINARY_DIR:STATIC=/home/data/ros1/dev_ws/build/rrbot_description
 
 //Value Computed by CMake
-rrbot_description_SOURCE_DIR:STATIC=/home/data/ros1/dev_ws/src/rrbot/src/rrbot_description
+rrbot_description_SOURCE_DIR:STATIC=/home/data/ros1/dev_ws/src/gazebo_ros_demos/rrbot_description
 
 
 ########################
@@ -521,7 +521,7 @@ CMAKE_HAVE_PTHREAD_CREATE:INTERNAL=1
 CMAKE_HAVE_PTHREAD_H:INTERNAL=1
 //Source directory with the top level CMakeLists.txt file for this
 // project
-CMAKE_HOME_DIRECTORY:INTERNAL=/home/data/ros1/dev_ws/src/rrbot/src/rrbot_description
+CMAKE_HOME_DIRECTORY:INTERNAL=/home/data/ros1/dev_ws/src/gazebo_ros_demos/rrbot_description
 //ADVANCED property for variable: CMAKE_INSTALL_BINDIR
 CMAKE_INSTALL_BINDIR-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_INSTALL_DATADIR

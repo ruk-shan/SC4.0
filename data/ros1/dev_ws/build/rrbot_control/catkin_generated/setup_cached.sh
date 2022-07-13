@@ -10,4 +10,4 @@
 export CMAKE_PREFIX_PATH="/home/data/ros1/dev_ws/devel/.private/rrbot_control:$CMAKE_PREFIX_PATH"
 export PWD='/home/data/ros1/dev_ws/build/rrbot_control'
 export ROSLISP_PACKAGE_DIRECTORIES="/home/data/ros1/dev_ws/devel/.private/rrbot_control/share/common-lisp:$ROSLISP_PACKAGE_DIRECTORIES"
-export ROS_PACKAGE_PATH="/home/data/ros1/dev_ws/src/rrbot/src/rrbot_control:$ROS_PACKAGE_PATH"
+export ROS_PACKAGE_PATH="/home/data/ros1/dev_ws/src/gazebo_ros_demos/rrbot_control:$ROS_PACKAGE_PATH"

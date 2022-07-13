@@ -1,4 +1,4 @@
-rrbot/src/rrbot_description
+gazebo_ros_demos/rrbot_description
 /home/data/ros1/dev_ws/devel/.private/rrbot_description/cmake.lock /home/data/ros1/dev_ws/devel/./cmake.lock
 /home/data/ros1/dev_ws/devel/.private/rrbot_description/share/rrbot_description/cmake/rrbot_descriptionConfig.cmake /home/data/ros1/dev_ws/devel/share/rrbot_description/cmake/rrbot_descriptionConfig.cmake
 /home/data/ros1/dev_ws/devel/.private/rrbot_description/share/rrbot_description/cmake/rrbot_descriptionConfig-version.cmake /home/data/ros1/dev_ws/devel/share/rrbot_description/cmake/rrbot_descriptionConfig-version.cmake
