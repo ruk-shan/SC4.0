@@ -1,1 +1,0 @@
-/home/data/ros1/dev_ws/devel/.private/rrbot_description/share/rrbot_description/cmake/rrbot_descriptionConfig-version.cmake

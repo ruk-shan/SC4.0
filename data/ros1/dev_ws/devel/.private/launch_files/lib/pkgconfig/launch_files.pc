@@ -1,8 +1,0 @@
-prefix=/home/data/ros1/dev_ws/devel/.private/launch_files
-
-Name: launch_files
-Description: Description of launch_files
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 

@@ -1,8 +1,0 @@
-prefix=/home/data/ros1/dev_ws/devel/.private/mirabb_rev2_description
-
-Name: mirabb_rev2_description
-Description: Description of mirabb_rev2_description
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 

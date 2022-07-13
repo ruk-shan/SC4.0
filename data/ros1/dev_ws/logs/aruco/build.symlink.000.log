@@ -1,4 +1,0 @@
-Symlinking /home/data/ros1/dev_ws/devel/share/aruco/cmake/arucoConfig.cmake
-Symlinking /home/data/ros1/dev_ws/devel/share/aruco/cmake/arucoConfig-version.cmake
-Symlinking /home/data/ros1/dev_ws/devel/lib/libaruco.so
-Symlinking /home/data/ros1/dev_ws/devel/lib/pkgconfig/aruco.pc

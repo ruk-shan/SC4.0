@@ -1,1 +1,0 @@
-/home/data/ros1/dev_ws/devel/.private/aruco_ros/include/aruco_ros/ArucoThresholdConfig.h

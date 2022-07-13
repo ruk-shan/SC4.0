@@ -1,8 +1,0 @@
-prefix=/home/data/ros1/dev_ws/devel/.private/system_controller
-
-Name: system_controller
-Description: Description of system_controller
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 

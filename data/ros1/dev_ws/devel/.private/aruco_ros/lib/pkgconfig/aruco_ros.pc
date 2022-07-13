@@ -1,8 +1,0 @@
-prefix=/home/data/ros1/dev_ws/devel/.private/aruco_ros
-
-Name: aruco_ros
-Description: Description of aruco_ros
-Version: 3.0.2
-Cflags: -I/home/data/ros1/dev_ws/devel/.private/aruco_ros/include -I/home/data/ros1/dev_ws/src/aruco_ros/aruco_ros/include
-Libs: -L${prefix}/lib -laruco_ros_utils
-Requires: aruco sensor_msgs tf

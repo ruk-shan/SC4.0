@@ -1,8 +1,0 @@
-prefix=/home/data/ros1/dev_ws/devel/.private/aruco_msgs
-
-Name: aruco_msgs
-Description: Description of aruco_msgs
-Version: 3.0.2
-Cflags: -I/home/data/ros1/dev_ws/devel/.private/aruco_msgs/include
-Libs: -L${prefix}/lib 
-Requires: message_runtime geometry_msgs std_msgs

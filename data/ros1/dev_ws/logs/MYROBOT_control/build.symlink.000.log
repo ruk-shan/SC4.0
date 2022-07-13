@@ -1,5 +1,0 @@
-Symlinking /home/data/ros1/dev_ws/devel/share/MYROBOT_control/cmake/MYROBOT_controlConfig.cmake
-Symlinking /home/data/ros1/dev_ws/devel/share/MYROBOT_control/cmake/MYROBOT_controlConfig-version.cmake
-Symlinking /home/data/ros1/dev_ws/devel/lib/MYROBOT_control/cmake.lock
-Symlinking /home/data/ros1/dev_ws/devel/lib/MYROBOT_control/laodcel_reader.py
-Symlinking /home/data/ros1/dev_ws/devel/lib/pkgconfig/MYROBOT_control.pc

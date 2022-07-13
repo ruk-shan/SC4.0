@@ -1,2 +1,0 @@
-/home/ubuntu/data/dev_ws/devel/./cmake.lock 37
-/home/data/ros1/dev_ws/devel/./cmake.lock 140

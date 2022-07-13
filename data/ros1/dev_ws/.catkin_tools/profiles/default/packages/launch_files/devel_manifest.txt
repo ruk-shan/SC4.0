@@ -1,5 +1,0 @@
-launch_files
-/home/data/ros1/dev_ws/devel/.private/launch_files/cmake.lock /home/data/ros1/dev_ws/devel/./cmake.lock
-/home/data/ros1/dev_ws/devel/.private/launch_files/share/launch_files/cmake/launch_filesConfig-version.cmake /home/data/ros1/dev_ws/devel/share/launch_files/cmake/launch_filesConfig-version.cmake
-/home/data/ros1/dev_ws/devel/.private/launch_files/share/launch_files/cmake/launch_filesConfig.cmake /home/data/ros1/dev_ws/devel/share/launch_files/cmake/launch_filesConfig.cmake
-/home/data/ros1/dev_ws/devel/.private/launch_files/lib/pkgconfig/launch_files.pc /home/data/ros1/dev_ws/devel/lib/pkgconfig/launch_files.pc

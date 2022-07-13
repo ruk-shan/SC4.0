@@ -1,6 +1,0 @@
-devel_space: /home/data/ros1/dev_ws/devel
-install: false
-install_space: /home/data/ros1/dev_ws/install
-profile: default
-source_space: /home/data/ros1/dev_ws/src
-workspace: /home/data/ros1/dev_ws

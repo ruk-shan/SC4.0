@@ -1,1 +1,0 @@
-/home/data/ros1/dev_ws/devel/.private/MYROBOT_control/share/MYROBOT_control/cmake/MYROBOT_controlConfig-version.cmake
